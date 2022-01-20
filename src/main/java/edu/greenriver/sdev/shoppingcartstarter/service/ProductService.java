@@ -1,5 +1,5 @@
 package edu.greenriver.sdev.shoppingcartstarter.service;
 
-public class Product
+public class ProductService
 {
 }
